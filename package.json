@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AxatSachani/test-first.git"
+    "url": "git+https://github.com/AxatSachani/npms.git"
   },
   "keywords": [
     "test",
@@ -18,7 +18,7 @@
   "author": "akshat sachani",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AxatSachani/test-first/issues"
+    "url": "https://github.com/AxatSachani/npms.git/issues"
   },
-  "homepage": "https://github.com/AxatSachani/test-first#readme"
+  "homepage": "https://github.com/AxatSachani/npms.git#readme"
 }
